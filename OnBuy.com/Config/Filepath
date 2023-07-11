@@ -1,0 +1,3 @@
+projectConfigDataFilePath ./Config/Project_variables.properties
+testScriptdatafilePath ./Config/Excel1.xlsx
+databaseConfigFilePath ./Config/Database.properties

@@ -1,0 +1,7 @@
+{
+"url":"http://rmgtestingserver/domain/Online_Shopping_Application/",
+"usn":"anuj.lpu1@gmail.com",
+"pwd":"Test@123",
+"geckokey":"webdriver.gecko.driver",
+"geckovalue":"./target/geckodriver.exe"
+}
