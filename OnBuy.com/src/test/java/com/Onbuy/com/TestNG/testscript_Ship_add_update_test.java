@@ -10,7 +10,7 @@ import com.Onbuy.com_Utilityclasses.Base_class;
 import pom.Home_page;
 import pom.Login_page;
 import pom.Myaccount_shipping_page;
-@Listeners(com.Onbuy.com_Utilityclasses.ListnerClass_implementation.class)
+//@Listeners(com.Onbuy.com_Utilityclasses.ListnerClass_implementation.class)
 public class testscript_Ship_add_update_test extends Base_class {
 
 	@Test(groups = {"reg test"})
