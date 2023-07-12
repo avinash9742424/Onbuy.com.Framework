@@ -19,7 +19,7 @@ import pom.Home_page;
 import pom.Login_page;
 import pom.My_cart_page;
 import pom.Myaccount_Pay_pending;
-@Listeners(com.Onbuy.com_Utilityclasses.ListnerClass_implementation.class)
+/*@Listeners(com.Onbuy.com_Utilityclasses.ListnerClass_implementation.class)*/
 public class TestScript_Placeorder_test extends Base_class {
     
 	@Test(groups = {"reg test"})
